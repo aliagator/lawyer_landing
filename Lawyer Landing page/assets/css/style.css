@@ -42,7 +42,7 @@ header{
 /*Banner Section */
 .banner-section{
     position: relative;
-    background: url(../images/main-bg.png) no-repeat center top;
+    background: url(../images/main-bg.jpeg) no-repeat center top;
     background-size: cover;
     padding: 250px 0 75px;
     z-index: 1;
@@ -50,7 +50,7 @@ header{
 .banner-section::before{
     content: " ";
     position: absolute;
-    background: url(../images/main-bg2.png) no-repeat center top;
+    background: url(../images/main-bg2.jpg) no-repeat center top;
     width: 52%;
     height: 100%;
     top: 0;
